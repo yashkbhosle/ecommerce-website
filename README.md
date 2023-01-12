@@ -10,7 +10,8 @@ An Ecommerce Website With React JS And Tailwind CSS | Fake Store API
 
 
 
-Setup
+Setup-
+
 To install all dependencies
 run: npm i
 
